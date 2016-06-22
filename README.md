@@ -1,4 +1,8 @@
 # MeetupMaterial
+
+<H6><a href="http://www.meetup.com/SwiftBengaluru/events/231004273/">Meetup10</a> June 11,2016</H6>
+zip file with all presentation - https://github.com/SwiftBengaluru/MeetupMaterial/blob/master/11thJune.zip
+
 <H6><a href="http://www.meetup.com/SwiftBengaluru/events/229963536/">Meetup9</a> April 23,2016</H6>
 Full stack development using swift- http://www.slideshare.net/kaustubhkushte/full-stack-development-swift <Br/>
 IBM Blumix presentation- http://vidyasagarmsc.com/2016/04/swift-ibm-bluemix/
