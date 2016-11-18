@@ -1,5 +1,5 @@
 # MeetupMaterial
-<H6><a href="https://www.meetup.com/SwiftBengaluru/events/232468344/">Meetup12</a> November 12,2016</H6>
+<H6><a href="https://www.meetup.com/SwiftBengaluru/events/234858536/">Meetup12</a> November 12,2016</H6>
 zip file with all presentation - https://github.com/SwiftBengaluru/MeetupMaterial/blob/master/12Nov.zip
 Presentation on fastlane :https://speakerdeck.com/vijaytholpadi/supercharged-app-deployment-using-fastlane
  https://github.com/vijaytholpadi/FastlaneDemo
