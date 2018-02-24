@@ -1,4 +1,19 @@
 # MeetupMaterial
+
+<H6><a href="https://www.meetup.com/SwiftBengaluru/events/246678199/">Meetup19</a> Feb 10, 2018</H6>
+TDD event
+MVVM https://github.com/sairamkotha/RxMvvmLogin
+UnitTest: https://gist.github.com/ccabanero/39ee6d5fd7b289dee695
+XCode Tips:
+https://github.com/BKRApps/XcodeTips/tree/master/XcodeTips
+https://github.com/BKRApps/Swift-Playgrounds
+
+<H6><a href="https://www.meetup.com/SwiftBengaluru/events/245915146/">Meetup19</a> Dec 24, 2017</H6>
+Focus 2018 event https://www.icloud.com/keynote/0QHA6S5lyhIJfX6sB56_VhvhA#Fcous_2018_SwiftBLR
+
+<H6><a href="https://www.meetup.com/SwiftBengaluru/events/244071134/">Meetup18</a> Dec 2, 2017</H6>
+Swift Open Source event https://github.com/SwiftBengaluru/SwiftOpenSource2017 
+
 <H6><a href="https://www.meetup.com/SwiftBengaluru/events/242687051/">Meetup17</a> September 9,2017</H6>
 Zip file with all the presentation and code - https://github.com/SwiftBengaluru/MeetupMaterial/blob/master/Sept_9th_2017.zip
 
