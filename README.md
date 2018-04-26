@@ -1,5 +1,18 @@
 # MeetupMaterial
 
+<H6><a href="https://www.meetup.com/SwiftBengaluru/events/247940078/">Meetup21</a> Apr 14, 2018</H6>
+Swift Developers Meetup @WalmartLabs
+“Core Data - Under the hood” By Jatin Arora
+https://speakerdeck.com/jatinarora/under-the-hood-core-data
+https://github.com/arorajatin/CoreDataDemo
+
+“ARC with Objects: Closures” By Brajmohan Papneja
+https://github.com/bpapneja/SwiftWalmartMeetupARCWithObjectsAndClosures
+
+“ReSwift. Redux style unidirectional data flow” By Amresh
+“An introduction to Machine Learning & creating generic template ML using Keras powered by tensor flow” By Ashis Laha
+“How to Train your Model ?” By Bharath Nagaraj Rao
+
 <H6><a href="https://www.meetup.com/SwiftBengaluru/events/246678199/">Meetup20</a> Feb 10, 2018</H6>
 TDD event
 MVVM https://github.com/sairamkotha/RxMvvmLogin
