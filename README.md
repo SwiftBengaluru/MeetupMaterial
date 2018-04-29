@@ -10,6 +10,7 @@ https://github.com/arorajatin/CoreDataDemo
 https://github.com/bpapneja/SwiftWalmartMeetupARCWithObjectsAndClosures
 
 “ReSwift. Redux style unidirectional data flow” By Amresh
+https://github.com/amreshkumar/ReSwiftDemo
 
 “An introduction to Machine Learning & creating generic template ML using Keras powered by tensor flow” By Ashis Laha
 https://github.com/SwiftBengaluru/MeetupMaterial/blob/master/createMlModel_Ashis.key
