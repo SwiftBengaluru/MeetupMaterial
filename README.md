@@ -8,7 +8,7 @@ https://github.com/deekshibellare/SwiftCodable
 https://slides.com/sidsweb/swifty-webservice-3/
 
 “Method dispatch - Why should you care?” By Gaurav Keshre
-<>
+https://github.com/SwiftBengaluru/MeetupMaterial/blob/master/MethodDispatch-SwitBengaluru-%20GK.pdf
 
 "Core Animations in a Flash" By Swasidhant Chowdhury
 https://github.com/Swasidhant/AnimationsInAFlash
