@@ -1,5 +1,21 @@
 # MeetupMaterial
 
+<H6><a href="https://www.meetup.com/SwiftBengaluru/events/250325660/">Meetup22</a> May 19, 2018</H6> Swift Developers Meetup @WeWork (EGL)
+“Simplified JSON parsing with Codable Protocol” By Deekshith 
+https://github.com/deekshibellare/SwiftCodable
+
+“Swifty - a modern take on how iOS apps should do networking.” By Siddharth Gupta
+https://slides.com/sidsweb/swifty-webservice-3/
+
+“Method dispatch - Why should you care?” By Gaurav Keshre
+<>
+
+"Core Animations in a Flash" By Swasidhant Chowdhury
+https://github.com/Swasidhant/AnimationsInAFlash
+
+“Squash Bugs in Your Beta App” By Ahmed Anwar (remote)
+https://docs.google.com/presentation/d/11gb9pR1UvL8a_jaD21fbauEyRDOxmA__tWbAdlOuBJ0/
+
 <H6><a href="https://www.meetup.com/SwiftBengaluru/events/247940078/">Meetup21</a> Apr 14, 2018</H6>
 Swift Developers Meetup @WalmartLabs
 “Core Data - Under the hood” By Jatin Arora
@@ -12,7 +28,19 @@ https://github.com/bpapneja/SwiftWalmartMeetupARCWithObjectsAndClosures
 “ReSwift. Redux style unidirectional data flow” By Amresh
 
 “An introduction to Machine Learning & creating generic template ML using Keras powered by tensor flow” By Ashis Laha
-https://github.com/SwiftBengaluru/MeetupMaterial/blob/master/createMlModel_Ashis.key
+https://github.com/SwiftBengaluru/MeetupMaterial/blob/masterhttps://github.com/deekshibellare/SwiftCodable
+
+“Swifty - a modern take on how iOS apps should do networking.” By Siddharth Gupta
+https://slides.com/sidsweb/swifty-webservice-3/
+
+“Method dispatch - Why should you care?” By Gaurav Keshre
+<>
+
+"Core Animations in a Flash" By Swasidhant Chowdhury
+https://github.com/Swasidhant/AnimationsInAFlash
+
+“Squash Bugs in Your Beta App” By Ahmed Anwar (remote)
+https://docs.google.com/presentation/d/11gb9pR1UvL8a_jaD21fbauEyRDOxmA__tWbAdlOuBJ0//createMlModel_Ashis.key
 
 “How to Train your Model ?” By Bharath Nagaraj Rao
 https://github.com/SwiftBengaluru/MeetupMaterial/blob/master/Swift_Meetup_Apr14_Bharath.key
