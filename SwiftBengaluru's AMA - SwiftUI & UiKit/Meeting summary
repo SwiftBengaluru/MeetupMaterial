@@ -1,0 +1,16 @@
+Meeting summary for SwiftBengaluru's AMA - SwiftUI & UiKit (31/08/2024)
+Quick recap
+The team discussed issues related to animation in their application and considered the pros and cons of using SwiftUI's navigation system versus UIKit. They also shared strategies for new entrants to cope with market volatility in the iOS development field, emphasizing the importance of practical skills, hands-on experience, and staying updated with the market. Lastly, the core team was acknowledged for their contributions and feedback was invited to improve future meetups.
+Next steps
+• Shubham to connect with GAbhisek and propose ideas for future community involvement and events.
+• Meeting attendees to fill out the feedback form shared in the chat to help improve future meetups.
+• Attendees interested in volunteering or providing venue sponsorship to reach out to the core team via LinkedIn.
+Summary
+Animation Challenges and SwiftUI Debate
+Ratnesh and Shubham discussed issues related to animation in their application, specifically focusing on transition animations. They explored potential solutions, including the use of an animation modifier, and agreed to consult with Linda and Steve for further understanding. Later, the team, including Pran and GAbhisek, discussed the pros and cons of using SwiftUI's navigation system versus UIKit for their app. They acknowledged the complexity of certain transitions and animations and emphasized the importance of following programming principles and design patterns for scalability and ease of migration to other frameworks.
+Strategies for New Entrants in iOS Development
+Gabhisek initiated a discussion on the current job market conditions and strategies for new entrants to cope with market volatility. Shubham and Pran shared their insights, emphasizing the significance of practical skills and hands-on experience in securing a job in the iOS development field. They advised building small projects to gain problem-solving skills and understanding of various aspects of app development, and learning through helping teammates with their projects to build a strong portfolio. Gabhisek stressed the importance of staying updated with the market and sharing learnings to connect with more people, highlighting intrinsic motivation as a key factor in success in this field.
+Core Team Appreciation and Future Collaborations
+GAbhisek acknowledged the contributions of the core team and encouraged others to get involved as venue sponsors for future meetups. He invited feedback through a shared link and thanked attendees for their participation. Shubham expressed his gratitude for being included in the event and shared his plans for future collaborations. GAbhisek also requested feedback from the attendees to improve the format of future events.
+AI-generated content may be inaccurate or misleading. Always check for accuracy.
+Please rate the accuracy of this summary.	
